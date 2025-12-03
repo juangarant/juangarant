@@ -13,16 +13,3 @@
   <img src="https://img.shields.io/badge/@juangarciatn-000000?logo=x&logoColor=white" alt="X (Twitter) Profile" />
   </a>
  </p>
-
-<h2 align="center"> Tecnologías:
-<h4 align="center"> Junior
-  <br>
-  </br>
-<p align="center">
-  <a href="https://matias.ma/nsfw/">
-    <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=Java&logoColor=white">
-    <img src="https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=Git&logoColor=white">
-    <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white">
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white">
-  </a>
-</p>
