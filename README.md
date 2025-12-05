@@ -1,5 +1,5 @@
 <h1 align="center"> Hola, soy Juan García 👋
-<h4 align="center"> Estudiante de máster en ingeniería informática en la UPV
+<h4 align="center"> Estudiante de máster de ingeniería informática en la UPV
   <br>
   </br>
 <p align="center">
